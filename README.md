@@ -87,7 +87,7 @@
 >
 > [![designBootstrap](backend/DesignBootstrap/screenshot.png)](backend/designBootstrap)
 >
-> [![detail](backend/detail/screenshot.png)](backend/detail)
+> [![detail](backend/detail/detail.png)](backend/detail)
 >
 > [![director](backend/Director/screenshot.png)](backend/director)
 >
@@ -107,7 +107,7 @@
 >
 > [![flatdream](backend/Flatdream/screenshot.png)](backend/flatdream)
 >
-> [![flatlab](backend/flatlab/screenshot.png)](backend/flatlab)
+> [![flatlab](backend/Flatlab/screenshot.png)](backend/flatlab)
 >
 > [![flatter](backend/flatter/screenshot.png)](backend/flatter)
 >
@@ -201,21 +201,21 @@
 >
 > [![saltkin](backend/Saltkin/screenshot.png)](backend/saltkin)
 >
-> [![sbAdmin2](backend/sbAdmin2/screenshot.png)](backend/sbAdmin2)
+> [![sbAdmin2](backend/SBadmin2/screenshot.png)](backend/sbAdmin2)
 >
-> [![scale](backend/scale/screenshot.png)](backend/scale)
+> [![scale](backend/Scale/screenshot.png)](backend/scale)
 >
-> [![sentir](backend/sentir/screenshot.png)](backend/sentir)
+> [![sentir](backend/Sentir/screenshot.png)](backend/sentir)
 >
-> [![simplicity](backend/simplicity/screenshot.png)](backend/simplicity)
+> [![simplicity](backend/Simplicity/screenshot.png)](backend/simplicity)
 >
 > [![simplify](backend/simplify/screenshot.png)](backend/simplify)
 >
 > [![simpliq2](backend/simpliq2/screenshot.png)](backend/simpliq2)
 >
-> [![slicklab](backend/slicklab/screenshot.png)](backend/slicklab)
+> [![slicklab](backend/Slicklab/screenshot.png)](backend/slicklab)
 >
-> [![smartech](backend/smartech/screenshot.png)](backend/smartech)
+> [![smartech](backend/Smartech/screenshot.png)](backend/smartech)
 >
 > [![softadmin](backend/softadmin/screenshot.png)](backend/softadmin)
 >
@@ -223,7 +223,7 @@
 >
 > [![startup](backend/startup/screenshot.png)](backend/startup)
 >
-> [![sublime](backend/sublime/screenshot.png)](backend/sublime)
+> [![sublime](backend/Sublime/screenshot.png)](backend/sublime)
 >
 > [![sugarrush](backend/sugarrush/screenshot.png)](backend/sugarrush)
 >
@@ -231,17 +231,17 @@
 >
 > [![superhero](backend/superhero/screenshot.png)](backend/superhero)
 >
-> [![tamla](backend/tamla/screenshot.png)](backend/tamla)
+> [![tamla](backend/Tamla/screenshot.png)](backend/tamla)
 >
-> [![themeLab](backend/themeLab/screenshot.png)](backend/themeLab)
+> [![themeLab](backend/ThemeLab/screenshot.png)](backend/themeLab)
 >
-> [![tisa](backend/tisa/screenshot.png)](backend/tisa)
+> [![tisa](backend/Tisa/screenshot.png)](backend/tisa)
 >
 > [![transparent](backend/transparent/screenshot.png)](backend/transparent)
 >
-> [![ultra](backend/ultra/screenshot.png)](backend/ultra)
+> [![ultra](backend/Ultra/screenshot.png)](backend/ultra)
 >
-> [![urban](backend/urban/screenshot.png)](backend/urban)
+> [![urban](backend/Urban/screenshot.png)](backend/urban)
 >
 > [![velonicAdmin](backend/velonicAdmin/screenshot.png)](backend/velonicAdmin)
 >
@@ -249,17 +249,15 @@
 >
 > [![veneto](backend/veneto/screenshot.png)](backend/veneto)
 >
-> [![wb](backend/wb/screenshot.png)](backend/wb)
->
-> [![webPro](backend/webPro/screenshot.png)](backend/webPro)
+> [![webPro](backend/WebPro/screenshot.png)](backend/webPro)
 >
 > [![whitemin(ng)](backend/whitemin(ng)/screenshot.png)](backend/whitemin(ng))
 >
-> [![winterMin](backend/winterMin/screenshot.png)](backend/winterMin)
+> [![winterMin](backend/Wintermin/screenshot.png)](backend/winterMin)
 >
-> [![yukon](backend/yukon/screenshot.png)](backend/yukon)
+> [![yukon](backend/Yukon/screenshot.png)](backend/yukon)
 >
-> [![zontal](backend/zontal/screenshot.png)](backend/zontal)
+> [![zontal](backend/Zontal/screenshot.png)](backend/zontal)
 >
 
 ###### frontend
