@@ -5,97 +5,97 @@
 
 > [![absolute](backend/Absolute/screenshot.png)](backend/absolute)
 >
-> [![ace](backend/ace/screenshot.png)](backend/ace)
+> [![ace](backend/Ace/screenshot.png)](backend/ace)
 >
 > [![acme2](backend/acme2/screenshot.png)](backend/acme2)
 >
-> [![adminDesigns](backend/adminDesigns/screenshot.png)](backend/adminDesigns)
+> [![adminDesigns](backend/AdminDesigns/screenshot.png)](backend/adminDesigns)
 >
-> [![adminEx](backend/adminEx/screenshot.png)](backend/adminEx)
+> [![adminEx](backend/AdminEx/screenshot.png)](backend/adminEx)
 >
-> [![adminLTE](backend/adminLTE/screenshot.png)](backend/adminLTE)
+> [![adminLTE](backend/AdminLTE/screenshot.png)](backend/adminLTE)
 >
 > [![aeAdmin](backend/aeAdmin/screenshot.png)](backend/aeAdmin)
 >
-> [![appStart](backend/appStart/screenshot.png)](backend/appStart)
+> [![appStart](backend/Appstart/screenshot.png)](backend/appStart)
 >
-> [![apricot](backend/apricot/screenshot.png)](backend/apricot)
+> [![apricot](backend/Apricot/screenshot.png)](backend/apricot)
 >
 > [![aqua](backend/aqua/screenshot.png)](backend/aqua)
 >
-> [![aries](backend/aries/screenshot.png)](backend/aries)
+> [![aries](backend/Aries/screenshot.png)](backend/aries)
 >
 > [![arjuna](backend/arjuna/screenshot.png)](backend/arjuna)
 >
 > [![arkAdmin](backend/arkAdmin/screenshot.png)](backend/arkAdmin)
 >
-> [![atlant](backend/atlant/screenshot.png)](backend/atlant)
+> [![atlant](backend/Atlant/screenshot.png)](backend/atlant)
 >
-> [![atom](backend/atom/screenshot.png)](backend/atom)
+> [![atom](backend/Atom/screenshot.png)](backend/atom)
 >
 > [![austra](backend/austra/screenshot.png)](backend/austra)
 >
-> [![azan](backend/azan/screenshot.png)](backend/azan)
+> [![azan](backend/Azan/screenshot.png)](backend/azan)
 >
 > [![bePro](backend/bePro/screenshot.png)](backend/bePro)
 >
-> [![beyondAdmin](backend/beyondAdmin/screenshot.png)](backend/beyondAdmin)
+> [![beyondAdmin](backend/BeyondAdmin/screenshot.png)](backend/beyondAdmin)
 >
 > [![blackForest](backend/blackForest/screenshot.png)](backend/blackForest)
 >
-> [![blankOn](backend/blankOn/screenshot.png)](backend/blankOn)
+> [![blankOn](backend/Blankon/screenshot.png)](backend/blankOn)
 >
-> [![bluePrint](backend/bluePrint/screenshot.png)](backend/bluePrint)
+> [![bluePrint](backend/BluePrint/screenshot.png)](backend/bluePrint)
 >
 > [![blueWaves](backend/blueWaves/screenshot.png)](backend/blueWaves)
 >
-> [![bracket](backend/bracket/screenshot.png)](backend/bracket)
+> [![bracket](backend/Bracket/screenshot.png)](backend/bracket)
 >
-> [![brio](backend/brio/screenshot.png)](backend/brio)
+> [![brio](backend/Brio/screenshot.png)](backend/brio)
 >
-> [![bucket](backend/bucket/screenshot.png)](backend/bucket)
+> [![bucket](backend/Bucket/screenshot.png)](backend/bucket)
 >
-> [![cameo](backend/cameo/screenshot.png)](backend/cameo)
+> [![cameo](backend/Cameo/screenshot.png)](backend/cameo)
 >
-> [![cannavaro](backend/cannavaro/screenshot.png)](backend/cannavaro)
+> [![cannavaro](backend/Cannavaro/screenshot.png)](backend/cannavaro)
 >
 > [![canvas](backend/canvas/screenshot.png)](backend/canvas)
 >
-> [![centaurus](backend/centaurus/screenshot.png)](backend/centaurus)
+> [![centaurus](backend/Centaurus/screenshot.png)](backend/centaurus)
 >
-> [![chain](backend/chain/screenshot.png)](backend/chain)
+> [![chain](backend/Chain/screenshot.png)](backend/chain)
 >
-> [![charisma](backend/charisma/screenshot.png)](backend/charisma)
+> [![charisma](backend/Charisma/screenshot.png)](backend/charisma)
 >
-> [![cleanZone2](backend/cleanZone2/screenshot.png)](backend/cleanZone2)
+> [![cleanZone2](backend/Cleanzone2/screenshot.png)](backend/cleanZone2)
 >
 > [![clever](backend/clever/screenshot.png)](backend/clever)
 >
 > [![cloud2](backend/cloud2/screenshot.png)](backend/cloud2)
 >
-> [![coco](backend/coco/screenshot.png)](backend/coco)
+> [![coco](backend/Coco/screenshot.png)](backend/coco)
 >
 > [![colorAdmin](backend/colorAdmin/screenshot.png)](backend/colorAdmin)
 >
-> [![cube](backend/cube/screenshot.png)](backend/cube)
+> [![cube](backend/Cube/screenshot.png)](backend/cube)
 >
-> [![curo](backend/curo/screenshot.png)](backend/curo)
+> [![curo](backend/Curo/screenshot.png)](backend/curo)
 >
-> [![dashGum](backend/dashGum/screenshot.png)](backend/dashGum)
+> [![dashGum](backend/DashGum/screenshot.png)](backend/dashGum)
 >
-> [![delight](backend/delight/screenshot.png)](backend/delight)
+> [![delight](backend/Delight/screenshot.png)](backend/delight)
 >
-> [![designBootstrap](backend/designBootstrap/screenshot.png)](backend/designBootstrap)
+> [![designBootstrap](backend/DesignBootstrap/screenshot.png)](backend/designBootstrap)
 >
 > [![detail](backend/detail/screenshot.png)](backend/detail)
 >
-> [![director](backend/director/screenshot.png)](backend/director)
+> [![director](backend/Director/screenshot.png)](backend/director)
 >
-> [![dream](backend/dream/screenshot.png)](backend/dream)
+> [![dream](backend/Dream/screenshot.png)](backend/dream)
 >
 > [![dynamic](backend/dynamic/screenshot.png)](backend/dynamic)
 >
-> [![edumix](backend/edumix/screenshot.png)](backend/edumix)
+> [![edumix](backend/Edumix/screenshot.png)](backend/edumix)
 >
 > [![eKoders](backend/eKoders/screenshot.png)](backend/eKoders)
 >
@@ -105,7 +105,7 @@
 >
 > [![everest](backend/everest/screenshot.png)](backend/everest)
 >
-> [![flatdream](backend/flatdream/screenshot.png)](backend/flatdream)
+> [![flatdream](backend/Flatdream/screenshot.png)](backend/flatdream)
 >
 > [![flatlab](backend/flatlab/screenshot.png)](backend/flatlab)
 >
@@ -115,91 +115,91 @@
 >
 > [![flex](backend/flex/screenshot.png)](backend/flex)
 >
-> [![fusion](backend/fusion/screenshot.png)](backend/fusion)
+> [![fusion](backend/Fusion/screenshot.png)](backend/fusion)
 >
 > [![genius](backend/genius/screenshot.png)](backend/genius)
 >
-> [![homer](backend/homer/screenshot.png)](backend/homer)
+> [![homer](backend/Homer/screenshot.png)](backend/homer)
 >
 > [![infinite](backend/infinite/screenshot.png)](backend/infinite)
 >
-> [![inspinia](backend/inspinia/screenshot.png)](backend/inspinia)
+> [![inspinia](backend/Inspinia/screenshot.png)](backend/inspinia)
 >
-> [![janux](backend/janux/screenshot.png)](backend/janux)
+> [![janux](backend/Janux/screenshot.png)](backend/janux)
 >
-> [![karma](backend/karma/screenshot.png)](backend/karma)
+> [![karma](backend/Karma/screenshot.png)](backend/karma)
 >
 > [![kentut](backend/kentut/screenshot.png)](backend/kentut)
 >
 > [![kertas](backend/kertas/screenshot.png)](backend/kertas)
 >
-> [![kingadmin](backend/kingadmin/screenshot.png)](backend/kingadmin)
+> [![kingadmin](backend/Kingadmin/screenshot.png)](backend/kingadmin)
 >
-> [![kode](backend/kode/screenshot.png)](backend/kode)
+> [![kode](backend/Kode/screenshot.png)](backend/kode)
 >
 > [![lanCeng](backend/lanCeng/screenshot.png)](backend/lanCeng)
 >
 > [![landerApp](backend/landerApp/screenshot.png)](backend/landerApp)
 >
-> [![londinium](backend/londinium/screenshot.png)](backend/londinium)
+> [![londinium](backend/Londinium/screenshot.png)](backend/londinium)
 >
-> [![materialAdmin](backend/materialAdmin/screenshot.png)](backend/materialAdmin)
+> [![materialAdmin](backend/MaterialAdmin/screenshot.png)](backend/materialAdmin)
 >
-> [![materialize](backend/materialize/screenshot.png)](backend/materialize)
+> [![materialize](backend/Materialize/screenshot.png)](backend/materialize)
 >
-> [![metis](backend/metis/screenshot.png)](backend/metis)
+> [![metis](backend/Metis/screenshot.png)](backend/metis)
 >
 > [![metro](backend/metro/screenshot.png)](backend/metro)
 >
-> [![minimal](backend/minimal/screenshot.png)](backend/minimal)
+> [![minimal](backend/Minimal/screenshot.png)](backend/minimal)
 >
-> [![minoral](backend/minoral/screenshot.png)](backend/minoral)
+> [![minoral](backend/Minoral/screenshot.png)](backend/minoral)
 >
-> [![mint](backend/mint/screenshot.png)](backend/mint)
+> [![mint](backend/Mint/screenshot.png)](backend/mint)
 >
 > [![mosaik](backend/mosaik/screenshot.png)](backend/mosaik)
 >
 > [![myxdashboard](backend/myxdashboard/screenshot.png)](backend/myxdashboard)
 >
-> [![neuboard](backend/neuboard/screenshot.png)](backend/neuboard)
+> [![neuboard](backend/Neuboard/screenshot.png)](backend/neuboard)
 >
-> [![nifty](backend/nifty/screenshot.png)](backend/nifty)
+> [![nifty](backend/Nifty/screenshot.png)](backend/nifty)
 >
-> [![odin](backend/odin/screenshot.png)](backend/odin)
+> [![odin](backend/Odin/screenshot.png)](backend/odin)
 >
 > [![opacity](backend/opacity/screenshot.png)](backend/opacity)
 >
 > [![optimus](backend/optimus/screenshot.png)](backend/optimus)
 >
-> [![orb](backend/orb/screenshot.png)](backend/orb)
+> [![orb](backend/Orb/screenshot.png)](backend/orb)
 >
-> [![pages](backend/pages/screenshot.png)](backend/pages)
+> [![pages](backend/Pages/screenshot.png)](backend/pages)
 >
 > [![perfect](backend/perfect/screenshot.png)](backend/perfect)
 >
 > [![perfectum](backend/perfectum/screenshot.png)](backend/perfectum)
 >
-> [![pixit](backend/pixit/screenshot.png)](backend/pixit)
+> [![pixit](backend/Pixit/screenshot.png)](backend/pixit)
 >
-> [![pixProV2](backend/pixProV2/screenshot.png)](backend/pixProV2)
+> [![pixProV2](backend/PixProV2/screenshot.png)](backend/pixProV2)
 >
 > [![porto](backend/porto/screenshot.png)](backend/porto)
 >
 > [![proctor](backend/proctor/screenshot.png)](backend/proctor)
 >
-> [![quarca](backend/quarca/screenshot.png)](backend/quarca)
+> [![quarca](backend/Quarca/screenshot.png)](backend/quarca)
 >
 > [![queenAdmin](backend/queenAdmin/screenshot.png)](backend/queenAdmin)
 >
-> [![rapido](backend/rapido/screenshot.png)](backend/rapido)
+> [![rapido](backend/Rapido/screenshot.png)](backend/rapido)
 >
 > [![real](backend/real/screenshot.png)](backend/real)
 >
-> [![realm](backend/realm/screenshot.png)](backend/realm)
+> [![realm](backend/Realm/screenshot.png)](backend/realm)
 >
-> [![rock](backend/rock/screenshot.png)](backend/rock)
+> [![rock](backend/Rock/screenshot.png)](backend/rock)
 >
-> [![saltkin](backend/saltkin/screenshot.png)](backend/saltkin)
+> [![saltkin](backend/Saltkin/screenshot.png)](backend/saltkin)
 >
 > [![sbAdmin2](backend/sbAdmin2/screenshot.png)](backend/sbAdmin2)
 >
